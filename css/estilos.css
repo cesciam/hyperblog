@@ -43,3 +43,10 @@ body {
 {
     padding: 1em;
 }
+
+#footer{
+    border: #333 1px solid;
+    text-align: center;
+    background-color: #33A;
+    color: aliceblue;
+}
